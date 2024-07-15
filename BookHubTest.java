@@ -101,17 +101,6 @@ public class BookHubTest {
 		Thread.sleep(2000);
 		body.sendKeys(Keys.HOME);
 				
-//		WebElement searchBook = driver.findElement(By.cssSelector("input[type='search']"));
-//		if (searchBook == null) {
-//			searchBook.click();
-//			searchBook.sendKeys("fdssa");
-//		}
-			
-//		Thread.sleep(1000);
-//		searchBook.sendKeys("great");
-//		Thread.sleep(1000);
-//		WebElement searchBtn = driver.findElement(By.cssSelector("button.search-icon-container"));
-//		
 		
 	}
 
